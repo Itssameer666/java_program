@@ -23,7 +23,7 @@ class addOfTwoMatrices
     C[i][j]=A[i][j]+B[i][j];
        }
    }
-System.out.println("Subtraction of two matrix");
+System.out.println("Addition of two matrix");
  for(int i=0;i<3;i++){
      for(int j=0;j<3;j++){
     System.out.print(C[i][j]+" ");
